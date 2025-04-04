@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.activity.result.contract.ActivityResultContracts
 
-class MainActivity : AppCompatActivity() {//chat
+class MainActivity : AppCompatActivity() {
     private lateinit var btnSelectPhoto: Button
     private lateinit var btnAiChat: Button  // Add reference to the AI Chat button
 
