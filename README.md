@@ -1,6 +1,6 @@
 📸 Edit photos with AI chat.
 
-App download link: Here
+App download link: [📥Download Here](https://github.com/angshul004/PhotoEditorPro/raw/main/app-release.apk)
 
 screenshot:
 
